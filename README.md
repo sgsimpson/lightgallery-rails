@@ -4,20 +4,6 @@ Rails wrapper for [jQuery lightgallery](http://sachinchoolur.github.io/lightGall
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-```ruby
-gem "lightgallery-rails"
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install lightgallery-rails
-
 Include the following code into your `application.js`
 
 ```javascript
